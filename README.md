@@ -19,6 +19,8 @@ How to use:
 6. Click the "Translate" button to see the translated text.
 7. The translated text will be displayed below.
 
+#copied from another and made some changes to improve this project.
+
 Contributing: 
 Contributions are welcome! If you'd like to improve this project by fixing bugs 🐞, adding features 🚀, or enhancing the documentation 📚, please feel free to open issues or pull requests in this repository.
 
