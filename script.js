@@ -1,6 +1,5 @@
 
 document.addEventListener("DOMContentLoaded", () => {
-  // your entire script code goes inside here
   const recognition = new webkitSpeechRecognition();
   recognition.continuous = false;
   recognition.lang = 'en-US';
